@@ -1,0 +1,10 @@
+C:\Users\Matvey\Desktop\AndreiFile\AndreiFile\bin\Debug\AndreiFile.exe.config
+C:\Users\Matvey\Desktop\AndreiFile\AndreiFile\bin\Debug\AndreiFile.exe
+C:\Users\Matvey\Desktop\AndreiFile\AndreiFile\bin\Debug\AndreiFile.pdb
+C:\Users\Matvey\Desktop\AndreiFile\AndreiFile\obj\Debug\AndreiFile.csprojAssemblyReference.cache
+C:\Users\Matvey\Desktop\AndreiFile\AndreiFile\obj\Debug\AndreiFile.Form1.resources
+C:\Users\Matvey\Desktop\AndreiFile\AndreiFile\obj\Debug\AndreiFile.Properties.Resources.resources
+C:\Users\Matvey\Desktop\AndreiFile\AndreiFile\obj\Debug\AndreiFile.csproj.GenerateResource.cache
+C:\Users\Matvey\Desktop\AndreiFile\AndreiFile\obj\Debug\AndreiFile.csproj.CoreCompileInputs.cache
+C:\Users\Matvey\Desktop\AndreiFile\AndreiFile\obj\Debug\AndreiFile.exe
+C:\Users\Matvey\Desktop\AndreiFile\AndreiFile\obj\Debug\AndreiFile.pdb
